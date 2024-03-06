@@ -41,3 +41,45 @@ banner section style start
 /************************
 banner section style end
 *************************/
+
+/************************
+failure section style end
+*************************/
+.failure-section {
+  margin: 0 auto;
+  padding: 30px 150px;
+}
+.failure {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 40px;
+}
+.failure-img img {
+  height: 500px;
+}
+
+.failure-description {
+  font-size: 14px;
+  padding: 20px 0px;
+}
+.failure-subTitle h4 {
+  font-weight: 400;
+}
+
+/************************
+failure section style end
+*************************/
+
+/************************
+plans section style end
+*************************/
+.plans {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 20px;
+}
+/************************
+plans section style end
+*************************/
